@@ -55,6 +55,12 @@ ul a {
     padding: 0;
     gap: 10px;
 }
+.lin {
+        padding: 20px 0px;
+}
+.lin:hover, :focus {
+    color: red;
+}
 .lin:active {
     color: blue;
 }
