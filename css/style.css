@@ -55,6 +55,9 @@ ul a {
     padding: 0;
     gap: 10px;
 }
+.lin:active {
+    color: blue;
+}
 .logo {
     margin-top: 10px;
 }
@@ -145,6 +148,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     background-color: #eeeeee;
+    border-radius: 50%;
 }
 .team-name {
     font-style: normal;
