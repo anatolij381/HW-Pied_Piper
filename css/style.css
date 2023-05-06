@@ -128,7 +128,7 @@ p {
     text-align: center;
     margin: 0;
     color: var(--black);
-    background-image: url(C:/Users/User/Documents/GitHub/HW-Pied_Piper/images/backgraund-2.jpg);
+    background-image: url(../images/backgraund-2.jpg);
 }
 .ppc {
     background-color: var(--black);
