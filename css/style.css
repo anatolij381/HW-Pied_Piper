@@ -73,6 +73,7 @@ ul a {
     height: 403px;
     padding-top: 160px;
     padding-bottom: 160px;
+    background-image: url(C:/Users/User/Documents/GitHub/HW-Pied_Piper/images/backgraund-1.jpg);
 } 
 h1 {
     
@@ -127,6 +128,7 @@ p {
     text-align: center;
     margin: 0;
     color: var(--black);
+    background-image: url(C:/Users/User/Documents/GitHub/HW-Pied_Piper/images/backgraund-2.jpg);
 }
 .ppc {
     background-color: var(--black);
